@@ -14,6 +14,7 @@
     margin-left: 5%;
     font-family: 'Poppins', sans-serif;
     font-weight: bold;
+    color: #4e342e;
 }
 
 .container {
@@ -31,8 +32,21 @@
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: black;
+  color: #4e342e;
   font-size: 24px;
   font-weight: bold;
-  background: white;
+  background: rgba(255,255,255,0.2);
+  backdrop-filter: blur(10px);
+  padding: 10px;
+  border-radius: 10px;
 }
+
+#Utama{
+  position: absolute;
+  top: 25%;
+  left: 26%;
+  font-size: 80px;
+  font-weight: bold;
+  color:white;
+}
+
