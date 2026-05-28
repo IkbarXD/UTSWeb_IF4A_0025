@@ -70,5 +70,14 @@
     transition: 0.3s;
 }
 
+.gallery-img:hover{
+    transform: scale(1.05);
+}
+
+card img{
+    height: 220px;
+    object-fit: cover;
+}
+
 
 
