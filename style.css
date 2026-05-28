@@ -81,11 +81,18 @@ img {
   color: #4e342e;
 }
 
+.IsiProduk{
+    padding-top: 50px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px
+}
+
 .Parut{
   width: 20%;
   height: 400px;
   object-fit: cover;
-  margin-right: 250px;
 
 }
 
@@ -100,7 +107,6 @@ img {
   width: 20%;
   height: 415px;
   object-fit: cover;
-  margin-right: 250px;
 
 }
 
