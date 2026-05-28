@@ -16,6 +16,39 @@
 
 }
 
+.hero-section{
+    padding-top: 80px;
+}
+
+.hero-img{
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.feature-box,
+.service-box,
+.testimonial-box{
+    padding: 30px;
+    border-radius: 15px;
+    background: white;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.feature-box:hover,
+.service-box:hover,
+.testimonial-box:hover{
+    transform: translateY(-10px);
+}
+
+.feature-box i,
+.service-box i{
+    font-size: 40px;
+    color: green;
+    margin-bottom: 15px;
+}
+
 #Judul{
     margin-left: 5%;
     font-weight: bold;
