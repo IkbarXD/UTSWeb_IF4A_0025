@@ -55,3 +55,45 @@ img {
 
 }
 
+.TentangUMKM{
+  position: absolute;
+  top: 60%;
+  left: 28%;
+  font-size: 80px;
+  font-weight: bold;
+  color: white;
+  width: 600px;
+  text-align: center;
+}
+
+#Produk{
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  color: #4e342e;
+}
+
+.Parut{
+  width: 20%;
+  height: 400px;
+  object-fit: cover;
+  margin-right: 250px;
+
+}
+
+.Serut{
+  width: 20%;
+  height: 400px;
+  object-fit: cover;
+
+}
+
+.Kupas{
+  width: 20%;
+  height: 415px;
+  object-fit: cover;
+  margin-right: 250px;
+
+}
+
+
