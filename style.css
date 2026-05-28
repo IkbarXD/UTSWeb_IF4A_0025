@@ -1,0 +1,39 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+#Judul{
+    margin-left: 5%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.container {
+  position: relative;
+  width: 400px;
+}
+
+.Gambar {
+  width: 100%;
+  display: block;
+}
+
+.Isi{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 24px;
+  font-weight: bold;
+  background: white;
+
+}
