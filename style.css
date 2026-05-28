@@ -10,9 +10,14 @@
   padding: 5px;
 }
 
+.Awal nav a{
+  text-decoration: none;
+  color: green;
+
+}
+
 #Judul{
     margin-left: 5%;
-    font-family: 'Poppins', sans-serif;
     font-weight: bold;
     color: #4e342e;
 }
@@ -76,7 +81,6 @@ img {
 
 #Produk{
   text-align: center;
-  font-family: 'Poppins', sans-serif;
   font-weight: bold;
   color: #4e342e;
 }
@@ -87,27 +91,34 @@ img {
     justify-content: center;
     align-items: center;
     gap: 50px
-}
-
-.Parut{
-  width: 20%;
-  height: 400px;
-  object-fit: cover;
-
-}
-
-.Serut{
-  width: 20%;
-  height: 400px;
-  object-fit: cover;
-
+    
 }
 
 .Kupas{
-  width: 20%;
-  height: 415px;
-  object-fit: cover;
+    width: 300px;
+    height: 310px;
+    object-fit: cover;
+}
+.Parut{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+.Serut{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.text{
+    text-align: center;
+    width: 180px;
+    background-color: rgba(26, 28, 32, 0.9);
+    border: 1px solid #21262d;
+    padding: 20px;
+    list-style: none;
 
 }
+
 
 
