@@ -1,4 +1,4 @@
-.header {
+.Awal {
   position: fixed;
   top: 0;
   left: 0;
@@ -21,7 +21,7 @@
     display: flex;
     gap: 2rem;
     align-items: center;
-    margin-left: 50%;
+    margin-left: auto;
 }
 
 img {
